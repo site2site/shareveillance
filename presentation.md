@@ -2,7 +2,10 @@
 
 ####Kirk Finkel, Leo Shaw, Christina Badal
 
-#### One sentence description
+####Poster-X
+
+####Poster-X transforms the delivery of publicity for studio-x and gsapp events from static 2d image into a real-time projection displays that respond to the behavior of passersby.
+
 
 ###### paragraph description
 
