@@ -10,6 +10,8 @@
 ###### Breaking out of the 8.5x11 frame, Poster-X takes advantage of different sensor technologies to instigate interactive communication experiences around Avery Hall. A piezoelectric sensor triggers a projection in the elevator depending on how many people are riding. A long hallway features a passively scrolling image stream that only slows when a viewer stops to look. A sequential set of motion sensors deploys images along a procession of spaces to compose a narrative that follows passersby through the building. Cameras at these sites capture and project the viewers back in Studio-X, constantly recomposing a collage of potential 'clients.'
 
 
+Parts inventory: piezoelectric sensor, motion sensor, webcam, projectors, raspberry pi, arduino
+
 ####"Web X...YZ"
 We could play on the idea of projecting depth? Too cheesy?
 
