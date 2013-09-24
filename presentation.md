@@ -45,9 +45,7 @@ Parts inventory: motion sensor, webcam, Xbee module, raspberry pi, arduino
 
 ####A website / projector interface that allows Studio-X to curate a dialog with the general public.
 
-###### paragraph description
-
-This platform would initiate a conversation between digital and physical environment. The bo-X would be split between an online forum and a physical pin-up wall. Both sides would be observable via a live video feed. A web observer would be prompted to explore this environment through forum discussions using twitter or facebook. Those present in studio would be encouraged to answer questions by physically drawing a response on a parallel wall, or re-sketching a page in response to specific feedback. Thus invoking a conversation, a critique, a charette or simply humoring a curiosity.
+###### This platform would initiate a conversation between digital and physical environment. The bo-X would be split between an online forum and a physical pin-up wall. Both sides would be observable via a live video feed. A web observer would be prompted to explore this environment through forum discussions using twitter or facebook. Those present in studio would be encouraged to answer questions by physically drawing a response on a parallel wall, or re-sketching a page in response to specific feedback. Thus invoking a conversation, a critique, a charette or simply humoring a curiosity.
 
 After-hours, the Sandbo-X would become a forum for critique and online interaction. While the physical space might be 'offline' users would populate the bo-X with commentary and discussion amongst themselves.
 
