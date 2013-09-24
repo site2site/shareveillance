@@ -14,7 +14,7 @@ The inspiration
 * ![Xavatar 2](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-2.png)
 The program
 
-* ![Xavatar 3](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-3.png)
+* ![Xavatar 3](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-3.png)
 
 * ![Xavatar 4](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
 The schematics
