@@ -51,6 +51,8 @@ This platform would initiate a conversation between digital and physical environ
 
 After-hours, the Sandbo-X would become a forum for critique and online interaction. While the physical space might be 'offline' users would populate the bo-X with commentary and discussion amongst themselves.
 
+* ![sandbo-x-1](http://payload201.cargocollective.com/1/2/85269/6325473/SITE_sandboxai-01.png)
+
 The parts:
 * Arduino Uno
 * Raspberry Pi
