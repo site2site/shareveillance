@@ -2,7 +2,9 @@
 
 ####Kirk Finkel, Leo Shaw, Christina Badal
 
-####What's Going On?
+
+
+####"What's Going On?"
 
 ####A webcamera working with a motion sensor in Studio-X demystifies the role of the space and its inhabitants by simply following movement within its view to be posted on the web.
 
