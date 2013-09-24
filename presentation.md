@@ -2,15 +2,18 @@
 
 ####Kirk Finkel, Leo Shaw, Christina Badal
 
-####Poster-X
+####What's Going On?
 
-####Poster-X transforms the delivery of publicity for studio-x and gsapp events from static 2d image into a real-time projection displays that respond to the behavior of passersby.
-
-
-###### Breaking out of the 8.5x11 frame, Poster-X takes advantage of different sensor technologies to instigate interactive communication experiences around Avery Hall. A piezoelectric sensor triggers a projection in the elevator depending on how many people are riding. A long hallway features a passively scrolling image stream that only slows when a viewer stops to look. A sequential set of motion sensors deploys images along a procession of spaces to compose a narrative that follows passersby through the building. Cameras at these sites capture and project the viewers back in Studio-X, constantly recomposing a collage of potential 'clients.'
+####A webcamera working with a motion sensor in Studio-X demystifies the role of the space and its inhabitants by simply following movement within its view to be posted on the web.
 
 
-Parts inventory: piezoelectric sensor, motion sensor, webcam, projectors, raspberry pi, arduino
+###### The motion-tracking camera would necessarily adapt to broadcast different types of activity within Studio-X. During a lecture, it would remain trained on the speaker and audience, during an exhibition it might follow the paths of viewers, and on normal days it would give a sense of the workflow of the office.
+
+###### Using Xbee tags, Studio-X could make specific installations, speakers, media, et cetera into clickable tags online in order to display more relevant information.
+
+Parts inventory: motion sensor, webcam, Xbee module, raspberry pi, arduino
+
+
 
 ####"Web X...YZ"
 We could play on the idea of projecting depth? Too cheesy?
