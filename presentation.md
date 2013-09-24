@@ -47,11 +47,11 @@ Parts inventory: motion sensor, webcam, Xbee module, raspberry pi, arduino
 
 ###### paragraph description
 
-This platform would initiate a conversation between digital and physical environment. A website would begin as a live video feed of Studio X New York. A web observer would be prompted to explore this environment through a question prompt that would be projected physically onto a wall within the studio. Using twitter or Facebook as a forum for discussion. Those present in studio would be encouraged to answer questions by physically drawing a response on a parallel wall, or re-sketching a page in response to specific feedback. Thus invoking a conversation, a critique, a charette or simply humoring a curiosity.
+This platform would initiate a conversation between digital and physical environment. The bo-X would be split between an online forum and a physical pin-up wall. Both sides would be observable via a live video feed. A web observer would be prompted to explore this environment through forum discussions using twitter or facebook. Those present in studio would be encouraged to answer questions by physically drawing a response on a parallel wall, or re-sketching a page in response to specific feedback. Thus invoking a conversation, a critique, a charette or simply humoring a curiosity.
 
 After-hours, the Sandbo-X would become a forum for critique and online interaction. While the physical space might be 'offline' users would populate the bo-X with commentary and discussion amongst themselves.
 
-* ![sandbo-x-1](http://payload201.cargocollective.com/1/2/85269/6325473/SITE_sandboxai-01.png)
+![sandbo-x-1](http://payload201.cargocollective.com/1/2/85269/6325473/SITE_sandboxai-01.png)
 
 The parts:
 * Arduino Uno
