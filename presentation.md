@@ -6,17 +6,12 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 ###This program connects the ‘real world’ Studio-X with a new web presence based on a seamless collage of real-time video feeds of key focal points activated by a small-scale “Internet of Things.” It exploits the web’s ability to create new adjacencies by collapsing space and time while harnessing the use of cameras, printers, and sensor technology to playfully ground the digital in the ephemeral, sensual spatial realm. Studio-X reveals itself more fully—its people, its moments both exciting and mundane, the hidden process of making, and the incidental nature of the everyday—but does so through a responsive and more finely grained system of expression. 
 
-* ![animation](https://raw.github.com/site2site/shareveillance/master/images/People_animation.gif)
-
-* ![scenario](https://raw.github.com/site2site/shareveillance/master/images/People_animation_1-01.png)
+* ![scenario](http://transit4.cargocollective.com/1/2/85269/6422876/People_animation_1-01.png)
 
 > Scenario: A web visitor watching a lecture video feed scans an audience member wearing a QR code included on his thermal-printed ticket. She finds out he is a friend of a friend and tweets at him about the event. She sees him look at his phone and tweet back. The in-house “News” feed—now with a large pile of Thursday’s items curled below—is alerted of the #Studio-X tag and adds these to its printer queue. The web visitor pans over her screen to see her tweets rendered on paper as part of the ever-growing Studio-X Archive Spool. 
 
-###In this way, Shareveillance blurs the line between ‘real world’ and ‘web world’ content and confuses the normative offline-online data flows and representations. By stitching together disparate views into an ‘impossible’ collage space and activating its contents through unfamiliar digital/analog interactions, Shareveillance constructs a  new reality that is simultaneously flattened and spatial, automated and haptic. The initial phase consists of three main feed components: 'Sandbo-x' in elevation, 'What's Going On?' in plan, and 'Xavatar' in perspective.
+###In this way, Shareveillance blurs the line between ‘real world’ and ‘web world’ content and confuses the normative offline-online data flows and representations. By stitching together disparate views into an ‘impossible’ collage space and activating its contents through unfamiliar digital/analog interactions, Shareveillance constructs a  new reality that is simultaneously flattened and spatial, automated and haptic. 
 
-##Components 
-
-##Xavatar
 
 ###Xavatar activates the standard "bio" webpage by linking tagged Studio-X residents and their personal effects to their online representations.
 
@@ -25,8 +20,8 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 * ![Xavatar 1](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-1.png)
 * ![Xavatar 2](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-2.png)
-* ![Plan](https://raw.github.com/warshawshaw/shareveillance/master/images/sandbox-plan-sketch.png)
-* ![Example](https://raw.github.com/warshawshaw/shareveillance/master/images/bio-about-popups.jpg)
+* ![Perspective to Web](https://raw.github.com/warshawshaw/shareveillance/master/images/perspective-to-web.png)
+
 
 Schematics
 
