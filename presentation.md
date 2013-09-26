@@ -41,20 +41,6 @@ The parts:
 * XBee Modules
 * Adafruit Mini Thermal Receipt Printer
 
-##"What's Going On?"
-
-###A webcamera working with a motion sensor in Studio-X demystifies the role of the space and its inhabitants by simply following movement within its view to be posted on the web.
-
-
-###The motion-tracking camera would necessarily adapt to broadcast different types of activity within Studio-X. During a lecture, it would remain trained on the speaker and audience, during an exhibition it might follow the paths of viewers, and on normal days it would give a sense of the workflow of the office. Using Xbee tags, Studio-X could make specific installations, speakers, media, et cetera into clickable tags online in order to display more relevant information.
-
-##Sandbo-X
-
-###A website / projector interface that allows Studio-X to curate a dialog with the general public.
-
-###This platform would initiate a conversation between digital and physical environment. The bo-X would be split between an online forum and a physical pin-up wall. Both sides would be observable via a live video feed. A web observer would be prompted to explore this environment through forum discussions using twitter or facebook. Those present in studio would be encouraged to answer questions by physically drawing a response on a parallel wall, or re-sketching a page in response to specific feedback. Thus invoking a conversation, a critique, a charette or simply humoring a curiosity.
-
-###After-hours, the Sandbo-X would become a forum for critique and online interaction. While the physical space might be 'offline' users would populate the bo-X with commentary and discussion amongst themselves.
 
 ![sandbo-x-1](http://payload201.cargocollective.com/1/2/85269/6325473/SITE_sandboxai-01.png)
 
