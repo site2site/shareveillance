@@ -9,15 +9,13 @@ Kirk Finkel, Leo Shaw, Christina Badal
 ###Tagging Studio-X residents is the first step towards creating an experimental Studio-X scale "Internet of Things." Using an active RFID tracking system, people can be followed in real-time, allowing for their presence or absence and location on-site to be communicated directly to the web. Additionally,  tags are embedded with individual bios automatically updated with information on current projects. These tags are represented visually on the Studio-X website via an overhead plan view video stream: residents tracked on camera become "clickable" tags much like locations on Google Maps. A connected component might play on the standard bio page of static photos and blurbs with resident avatars appearing and disappearing as their real world counterparts enter and exit Studio-X. Xavatar gives website users a direct and dynamic engagement with Studio-X residents, one which moves away from the flatness and artificiality of curated social media by making digital representation passively reflect the subtle fluctuations of daily use. 
 
 * ![Xavatar 1](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-1.png)
-The inspiration
-
 * ![Xavatar 2](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-2.png)
-The program
+
+Schematics
 
 * ![Xavatar 3](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-3.png)
-
 * ![Xavatar 4](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
-The schematics
+
 
 The parts:
 * Arduino Uno
@@ -26,6 +24,7 @@ The parts:
 * XBee Shield
 * XBee Explorer USB
 * XBee Modules
+* Adafruit Mini Thermal Receipt Printer
 
 
 ##"What's Going On?"
