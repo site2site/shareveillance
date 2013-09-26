@@ -42,7 +42,5 @@ The parts:
 * Adafruit Mini Thermal Receipt Printer
 
 
-![sandbo-x-1](http://payload201.cargocollective.com/1/2/85269/6325473/SITE_sandboxai-01.png)
-
 
 
