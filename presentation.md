@@ -12,7 +12,7 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 * ![Xavatar 2](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-2.png)
 
-###Shareveillance activates the standard "bio" webpage by linking tagged Studio-X residents and their personal effects to their online representations.
+###Shareveillance activates the standard "bio" webpage by linking tagged Studio-X residents and their personal effects to their online content.
 
 
 * ![people gif](https://raw.github.com/site2site/shareveillance/master/images/People_animation.gif)
@@ -22,7 +22,7 @@ Kirk Finkel, Leo Shaw, Christina Badal
 ###In this way, it blurs the line between ‘real world’ and ‘web world’ content and confuses the normative offline-online data flows and representations. By stitching together disparate views into an ‘impossible’ collage space and activating its contents through unfamiliar digital/analog interactions, Shareveillance constructs a  new reality that is simultaneously flattened and spatial, automated and haptic. 
 
 
-###Tagging Studio-X residents is the first step towards creating an experimental Studio-X scale "Internet of Things." Using an active RFID tracking system, people can be followed in real-time, allowing for their presence or absence and location on-site to be communicated directly to the web. Additionally, residents can choose personal items to be tagged and embedded with biographical information—much like typical online ‘avatars’ or profile pages. When residents check in for the day, they store their tagged items in the Xavatar area for web users to click, scan, and explore. The Xavatar bio page can reflect the quotidian—a bowl of keys or a coat rack—or be specialized and strange—a pile of books or a set of bobble heads . Studio-X residents can easily add, take away, and change what is represented on the bio page by simply placing and removing physical items and RFID tags or QR codes in the Xavatar space, maintaining the connection with the sensory world and bypassing the need to type out code and translate experience. 
+###Shareveillance also has the capability to take full advantage of the Internet of things. Studio-X could activate any person or object using active RFID tracking and QR code recognition, grafting the social media presence of anyone in the space onto the Studio-X website. A bowl of keys or a coat rack can act as a bio page for the whole Studio, or a wall decal can become the about page. Studio-X residents can easily add, take away, and change what is represented by moving artifacts or their own bodies in physical space.
 
 
 * ![Perspective to Web](https://raw.github.com/warshawshaw/shareveillance/master/images/perspective-to-web.png)
