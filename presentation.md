@@ -10,12 +10,15 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 * ![Xavatar 1](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-1.png)
 * ![Xavatar 2](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-2.png)
+* ![Plan](https://raw.github.com/warshawshaw/shareveillance/master/images/sandbox-plan-sketch.png)
+* ![Example](https://raw.github.com/warshawshaw/shareveillance/master/images/bio-about-popups.jpg)
 
 Schematics
 
 * ![Xavatar 3](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-3.png)
 * ![Xavatar 4](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
 * ![Xavatar 5](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-5.png)
+
 
 
 The parts:
