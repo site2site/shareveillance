@@ -6,7 +6,7 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 ###This program connects the ‘real world’ Studio-X with a new web presence based on a seamless collage of real-time video feeds of key focal points activated by a small-scale “Internet of Things.” It exploits the web’s ability to create new adjacencies by collapsing space and time while harnessing the use of cameras, printers, and sensor technology to playfully ground the digital in the ephemeral, sensual spatial realm. Studio-X reveals itself more fully—its people, its moments both exciting and mundane, the hidden process of making, and the incidental nature of the everyday—but does so through a responsive and more finely grained system of expression. 
 
-* ![animation](https://github.com/site2site/shareveillance/blob/master/images/People_animation.gif)
+* ![animation](https://raw.github.com/site2site/shareveillance/master/images/People_animation.gif)
 
 * ![scenario](http://transit4.cargocollective.com/1/2/85269/6422876/People_animation_1-01.png)
 
