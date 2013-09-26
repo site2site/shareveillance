@@ -22,10 +22,9 @@ Kirk Finkel, Leo Shaw, Christina Badal
 ###In this way, it blurs the line between ‘real world’ and ‘web world’ content and confuses the normative offline-online data flows and representations. By stitching together disparate views into an ‘impossible’ collage space and activating its contents through unfamiliar digital/analog interactions, Shareveillance constructs a  new reality that is simultaneously flattened and spatial, automated and haptic. 
 
 
-###Shareveillance also has the capability to take full advantage of the Internet of things. Studio-X could activate any person or object using active RFID tracking and QR code recognition, grafting the social media presence of anyone in the space onto the Studio-X website. A bowl of keys or a coat rack can act as a bio page for the whole Studio, or a wall decal can become the about page. Studio-X residents can easily add, take away, and change what is represented by moving artifacts or their own bodies in physical space.
-
 * ![Xavatar 6](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-6.png)
  
+###Shareveillance also has the capability to take full advantage of the Internet of things. Studio-X could activate any person or object using active RFID tracking and QR code recognition, grafting the social media presence of anyone in the space onto the Studio-X website. A bowl of keys or a coat rack can act as a bio page for the whole Studio, or a wall decal can become the about page. Studio-X residents can easily add, take away, and change what is represented by moving artifacts or their own bodies in physical space.
 
 * ![Perspective to Web](https://raw.github.com/warshawshaw/shareveillance/master/images/perspective-to-web.png)
 
