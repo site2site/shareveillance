@@ -22,7 +22,7 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 ###Tagging Studio-X residents is the first step towards creating an experimental Studio-X scale "Internet of Things." Using an active RFID tracking system, people can be followed in real-time, allowing for their presence or absence and location on-site to be communicated directly to the web. Additionally, residents can choose personal items to be tagged and embedded with biographical information—much like typical online ‘avatars’ or profile pages. When residents check in for the day, they store their tagged items in the Xavatar area for web users to click, scan, and explore. The Xavatar bio page can reflect the quotidian—a bowl of keys or a coat rack—or be specialized and strange—a pile of books or a set of bobble heads . Studio-X residents can easily add, take away, and change what is represented on the bio page by simply placing and removing physical items and RFID tags or QR codes in the Xavatar space, maintaining the connection with the sensory world and bypassing the need to type out code and translate experience. 
 
-
+* ![Xavatar 6](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-6.png)
 * ![Perspective to Web](https://raw.github.com/warshawshaw/shareveillance/master/images/perspective-to-web.png)
 
 
