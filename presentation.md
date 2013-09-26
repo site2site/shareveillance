@@ -8,7 +8,7 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 * ![Xavatar 1](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-1.png)
 
-It exploits the web’s ability to create new adjacencies by collapsing space and time while harnessing the use of cameras, printers, and sensor technology to playfully ground the digital in the ephemeral, sensual spatial realm. Studio-X reveals itself more fully—its people, its moments both exciting and mundane, the hidden process of making, and the incidental nature of the everyday—but does so through a responsive and more finely grained system of expression.  
+###It exploits the web’s ability to create new adjacencies by collapsing space and time while harnessing the use of cameras, printers, and sensor technology to playfully ground the digital in the ephemeral, sensual spatial realm. Studio-X reveals itself more fully—its people, its moments both exciting and mundane, the hidden process of making, and the incidental nature of the everyday—but does so through a responsive and more finely grained system of expression.  
 
 * ![Xavatar 2](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-2.png)
 
