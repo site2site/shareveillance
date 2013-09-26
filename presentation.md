@@ -8,7 +8,7 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 * ![animation](https://raw.github.com/site2site/shareveillance/master/images/People_animation.gif)
 
-* ![scenario](http://transit4.cargocollective.com/1/2/85269/6422876/People_animation_1-01.png)
+* ![scenario](https://raw.github.com/site2site/shareveillance/master/images/People_animation_1-01.png)
 
 > Scenario: A web visitor watching a lecture video feed scans an audience member wearing a QR code included on his thermal-printed ticket. She finds out he is a friend of a friend and tweets at him about the event. She sees him look at his phone and tweet back. The in-house “News” feed—now with a large pile of Thursday’s items curled below—is alerted of the #Studio-X tag and adds these to its printer queue. The web visitor pans over her screen to see her tweets rendered on paper as part of the ever-growing Studio-X Archive Spool. 
 
