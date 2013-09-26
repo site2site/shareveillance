@@ -15,6 +15,7 @@ Schematics
 
 * ![Xavatar 3](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-3.png)
 * ![Xavatar 4](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
+* ![Xavatar 5](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-5.png)
 
 
 The parts:
