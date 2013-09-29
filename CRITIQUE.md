@@ -16,7 +16,7 @@ This requires:
 5.	A user interface design
 
 
-Your immediate step is to talk to Nicky, Carlos and Benedict in order to find an installation strategy. Figure out from them what part of the space they are comfortable exposing online, and which is the best place to capture that they will actually engage with the product you are building.
+Your immediate step is to talk to Nicky, Carlos and Benedict in order to find an installation strategy - do this as soon as possible. Figure out from them what part of the space they are comfortable exposing online, and which is the best place to capture that they will actually engage with the product you are building.
 
 
 
