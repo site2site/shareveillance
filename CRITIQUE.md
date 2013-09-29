@@ -18,6 +18,8 @@ This requires:
 
 Your immediate step is to talk to Nicky, Carlos and Benedict in order to find an installation strategy - do this as soon as possible. Figure out from them what part of the space they are comfortable exposing online, and which is the best place to capture that they will actually engage with the product you are building.
 
+You may not have all parts working by the hackathon, but you need #3, #4 and #5 at a minimum. You can work with a finite number of predesigned tags to start, with the idea that ultimately, the directors can make their own tags over time.
+
 
 
 ## September 20, 2013
