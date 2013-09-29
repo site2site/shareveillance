@@ -1,0 +1,23 @@
+{
+    "name": "shareveillance",
+    "description": "Sharing through surveillance",
+    "version": "0.0.1",
+    "author": {
+        "name": "Your Name <your@email.com>",
+        "email": "your@email.com"
+    },
+    "contributors": [
+        { "name": "Christina Badal", "email": "<christinabadal@gmail.com>" },
+        { "name": "Leo Warshaw Shaw", "email": "<ljs2167@columbia.edu>" },
+        { "name": "Kirk Finkel", "email": "<knf2109@columbia.edu>" },
+        { "name": "Troy Conrad Therrien", "email": "<troyth@gmail.com>" }
+    ],
+    "main": "./lib/app.js",
+    "dependencies": {
+        "opencv": "*"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "license": "MIT"
+}
