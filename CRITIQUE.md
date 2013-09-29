@@ -4,6 +4,7 @@ Your project allows users to tag physical objects in a video feed streamed to th
 
 This requires:
 
+
 - [ ]	An interface for the Studio-X directors to input the things they want these physical click targets to link to
 
 - [ ]	A means of creating unique tags
@@ -13,6 +14,7 @@ This requires:
 - [ ]	An installation strategy - which part of the space will you capture?
 
 - [ ]	A user interface design
+
 
 Your immediate step is to talk to Nicky, Carlos and Benedict in order to find an installation strategy. Figure out from them what part of the space they are comfortable exposing online, and which is the best place to capture that they will actually engage with the product you are building.
 
