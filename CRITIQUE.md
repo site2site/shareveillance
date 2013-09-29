@@ -1,3 +1,23 @@
+## September 28, 2013
+
+Your project allows users to tag physical objects in a video feed streamed to the web, turning them into unique click targets. These targets can be produced over time, providing the directors of Studio-X with a new tool to curate their online communications through physical space.
+
+This requires:
+
+[ ]	An interface for the Studio-X directors to input the things they want these physical click targets to link to
+
+[ ]	A means of creating unique tags
+
+[ ] A means of reading these tags from an image
+
+[ ]	An installation strategy - which part of the space will you capture?
+
+[ ]	A user interface design
+
+Your immediate step is to talk to Nicky, Carlos and Benedict in order to find an installation strategy. Figure out from them what part of the space they are comfortable exposing online, and which is the best place to capture that they will actually engage with the product you are building.
+
+
+
 ## September 20, 2013
 
 The Raspberry Pi has an HDMI output port, so it's quite easy to connect it to a projector. You'll want to look into video codecs and other Linux-based solutions for dealing with video and image content. For instance, check out http://www.ffmpeg.org/ and the Raspberry Pi camera. Do some Google sleuthing on streaming video with a Raspberry Pi: for instance, http://blog.tkjelectronics.dk/2013/06/how-to-stream-video-and-audio-from-a-raspberry-pi-with-no-latency/.
