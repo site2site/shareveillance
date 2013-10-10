@@ -33,15 +33,11 @@ Schematics
 
 * ![Xavatar 3](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-3.png)
 * ![Xavatar 4](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
-* ![Xavatar 5](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-5.png)
+* ![Shareveillance Set-up]()
 
 The parts:
-* Arduino Uno
 * Raspberry Pi
 * Raspberry Pi Camera Board
-* XBee Shield
-* XBee Explorer USB
-* XBee Modules
 * Adafruit Mini Thermal Receipt Printer
 
 
