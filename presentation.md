@@ -31,8 +31,8 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 Schematics
 
-* ![Xavatar 5](https://github.com/site2site/shareveillance/blob/master/images/S2S-Xavatar-5.png)
-* ![Xavatar 4](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
+* ![Pi Camera](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
+* ![Thermal Printer](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-5.png)
 
 The parts:
 * Arduiono UNO
