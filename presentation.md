@@ -31,10 +31,11 @@ Kirk Finkel, Leo Shaw, Christina Badal
 
 Schematics
 
-* ![Xavatar 3](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-3.png)
+* ![Xavatar 5](https://github.com/site2site/shareveillance/blob/master/images/S2S-Xavatar-5.png)
 * ![Xavatar 4](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
 
 The parts:
+* Arduiono UNO
 * Raspberry Pi
 * Raspberry Pi Camera Board
 * Adafruit Mini Thermal Receipt Printer
