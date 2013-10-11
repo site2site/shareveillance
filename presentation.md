@@ -15,8 +15,7 @@ Kirk Finkel, Leo Shaw, Christina Badal
 ###Shareveillance activates the standard "bio" webpage by linking tagged Studio-X residents and their personal effects to their online content.
 
 
-* ![people gif](https://raw.github.com/site2site/shareveillance/master/images/People_animation2.gif)
-* ![scenario](https://raw.github.com/site2site/shareveillance/master/images/People_animation_1-01.png)
+* ![views](https://raw.github.com/site2site/shareveillance/master/images/10.10_site2site_1-01.png)
 
 
 ###In this way, it blurs the line between ‘real world’ and ‘web world’ content and confuses the normative offline-online data flows and representations. By stitching together disparate views into an ‘impossible’ collage space and activating its contents through unfamiliar digital/analog interactions, Shareveillance constructs a  new reality that is simultaneously flattened and spatial, automated and haptic. 
