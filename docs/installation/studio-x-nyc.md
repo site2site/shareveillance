@@ -1,1 +1,5 @@
 ## Shareveillance Installation
+
+###The Shareveillance Studio-X installation is composed of three cameras capturing time-lapse video: one tripod-mounted camera facing the northern wall, one plan-view camera looking down at a portion of the communal tables, and one elevation-view camera in the entrance hallway looking at the main poster area. The locations were determined to be uninvasive and fairly "low-maintenance" while still allowing freedom to curate and show (or not show) Studio-X work.
+
+###Each view translates to a particular functionality online which consolidates, expands, and re-presents current media components. For example, the hallway camera might act as Studio-X's calendar of events: poster templates can be embedded with camera-readable color and shapes corresponding to a Studio-X symbology that are activated as links online. In the cases where Studio-X has a lot of good content that just isn't getting enough attention—say, the event photos on Flickr or recordings on YouTube—this functionality can be used to engage people with Studio-X material in new and immediate ways.
