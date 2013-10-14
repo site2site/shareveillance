@@ -14,7 +14,8 @@
     ],
     "main": "./lib/app.js",
     "dependencies": {
-        "opencv": "*"
+        "opencv": "*",
+        "raspicam": "*"
     },
     "engines": {
         "node": ">=0.10.0"
