@@ -12,7 +12,7 @@
         { "name": "Kirk Finkel", "email": "<knf2109@columbia.edu>" },
         { "name": "Troy Conrad Therrien", "email": "<troyth@gmail.com>" }
     ],
-    "main": "./lib",
+    "main": "./lib/app.js",
     "dependencies": {
         "opencv": "*",
         "raspicam": "*"
