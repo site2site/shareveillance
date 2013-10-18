@@ -1,13 +1,1 @@
 ![Image](http://i.imgur.com/YCa9PzA.gif)
-<img src="http://i.imgur.com/YCa9PzA.gif"> 
-
-var img = new Image();
-var div = document.getElementById('foo');
-
-img.onload = function() {
-  div.appendChild(img);
-};
-
-img.src = 'path/to/image.jpg';
-
-![alt tag](http://i.imgur.com/YCa9PzA.gif)
