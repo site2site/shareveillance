@@ -13,10 +13,12 @@ Kirk Finkel, Leo Shaw, Christina Badal, Dina Mahmoud, Masha Drozdov
 
 ###This program connects the ‘real world’ Studio-X with a new web presence based on a triptych of timelapse feeds of key focal points activated by a small-scale “Internet of Things.” It exploits the web’s ability to create new adjacencies by collapsing space and time while harnessing the use of cameras, printers, and computer vision technology to playfully ground the digital in the ephemeral, sensual spatial realm. Studio-X reveals itself more fully—its people, its moments both exciting and mundane, the hidden process of making, and the incidental nature of the everyday—but does so through a responsive and more finely grained system of expression. 
 
+* ![views](https://raw.github.com/site2site/shareveillance/master/images/10.10_site2site_intro.gif)
+
 ###The program consists of three ‘hotspots’: a billboard of events in elevation, a desk share-space in plan, and a dynamic module for capturing one-off or spontaneous events, unusual set-ups, and various
 
 * ![Shareveillance Set-up](https://raw.github.com/site2site/shareveillance/master/images/S2S_Shareveillance_Setup.png)
-* ![views](https://raw.github.com/site2site/shareveillance/master/images/10.10_site2site_intro.gif)
+
 * ![view1](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-01.png) 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-02.png) 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-03.png) 
