@@ -18,7 +18,7 @@ lecture: shareveillance
 ###The program consists of three ‘hotspots’: 
 ###1. "Billboard" of events in elevation
 ###2. "Audience" share-space in plan
-###3. "Ation" a dynamic module for capturing one-off or spontaneous events, unusual set-ups, and assorted ephemera
+###3. "Action" a dynamic module for capturing one-off or spontaneous events, unusual set-ups, and assorted ephemera
 
 * ![Shareveillance Set-up](https://raw.github.com/site2site/shareveillance/master/images/S2S_Shareveillance_Setup.png)
 
