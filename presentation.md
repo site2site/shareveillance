@@ -7,7 +7,7 @@ lecture: shareveillance
 ---
 ##Shareveillance
 
-###Shareveillance addresses the representation of Studio-X in the digital realm, exploring the potential for dynamic interplay between analog and digital space, curation and automation.       
+###Shareveillance addresses the representation of Studio-X on the web, exploring the potential for a dynamic interplay between analog and digital space, curation and automation.       
 
 * ![Site to Web diagram](https://raw.github.com/site2site/shareveillance/master/images/S2S_Site-to-Web-Diagram.png)
 
