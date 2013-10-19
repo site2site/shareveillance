@@ -7,15 +7,13 @@ lecture: shareveillance
 ---
 ##Shareveillance
 
-Kirk Finkel, Leo Shaw, Christina Badal, Dina Mahmoud, Masha Drozdov
-
-###Shareveillance addresses the representation of Studio-X in the digital realm, exploiting the potential for a dynamic interplay between analog and digital space, curation and automation.      
+###Shareveillance addresses the representation of Studio-X in the digital realm, exploring the potential for dynamic interplay between analog and digital space, curation and automation.       
 
 ###This program connects the ‘real world’ Studio-X with a new web presence based on a triptych of timelapse feeds of key focal points activated by a small-scale “Internet of Things.” It exploits the web’s ability to create new adjacencies by collapsing space and time while harnessing the use of cameras, printers, and computer vision technology to playfully ground the digital in the ephemeral, sensual spatial realm. Studio-X reveals itself more fully—its people, its moments both exciting and mundane, the hidden process of making, and the incidental nature of the everyday—but does so through a responsive and more finely grained system of expression. 
 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.10_site2site_intro.gif)
 
-###The program consists of three ‘hotspots’: a billboard of events in elevation, a desk share-space in plan, and a dynamic module for capturing one-off or spontaneous events, unusual set-ups, and assorted ephemera. 
+###The program consists of three ‘hotspots’: a "Billboard" of events in elevation, an "Audience" share-space in plan, and a dynamic module, "Stage," for capturing one-off or spontaneous events, unusual set-ups, and assorted ephemera. 
 
 * ![Shareveillance Set-up](https://raw.github.com/site2site/shareveillance/master/images/S2S_Shareveillance_Setup.png)
 
@@ -34,9 +32,6 @@ Kirk Finkel, Leo Shaw, Christina Badal, Dina Mahmoud, Masha Drozdov
 ###Scenario of the "Stage" PERSPECTIVE
 
 ###The hardware:
-* Raspberry Pi
-* Raspberry Pi Camera Board
-* Adafruit Mini Thermal Receipt Printer
 
 * ![Pi Camera](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
 * ![Thermal Printer](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-5.png)
