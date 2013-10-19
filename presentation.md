@@ -32,7 +32,7 @@ Kirk Finkel, Leo Shaw, Christina Badal, Dina Mahmoud, Masha Drozdov
 * ![views](http://i.imgur.com/PjhxHDn.jpg)
 * ![views](http://i.imgur.com/g5iy7uR.gif)
 
-###Scenario of the "Stage" DYNAMIC
+###Scenario of the "Stage" PERSPECTIVE
 
 ###The hardware:
 * Raspberry Pi
