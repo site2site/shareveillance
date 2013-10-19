@@ -19,14 +19,20 @@ Kirk Finkel, Leo Shaw, Christina Badal, Dina Mahmoud, Masha Drozdov
 
 * ![Shareveillance Set-up](https://raw.github.com/site2site/shareveillance/master/images/S2S_Shareveillance_Setup.png)
 
+###Scenario of the "Billboard" ELEVATION
+
 * ![view1](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-01.png) 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-02.png) 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-03.png) 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-04.png) 
+
+###Scenario of the "Audience" PLAN
+
 * ![views](http://i.imgur.com/cDqDAyW.gif)
 * ![views](http://i.imgur.com/PjhxHDn.jpg)
 * ![views](http://i.imgur.com/g5iy7uR.gif)
-* ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-04.png) 
+
+###Scenario of the "Stage" DYNAMIC
 
 ###The hardware:
 * Raspberry Pi
