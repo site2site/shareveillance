@@ -37,6 +37,7 @@ lecture: shareveillance
 
 * ![views](https://raw.github.com/mashalusha/shareveillance/master/images/Moving-Camera-Diagram-1.gif)
 * 
+*
 * ![views](https://raw.github.com/mashalusha/shareveillance/master/images/Moving-Camera-Diagram-2.gif)
 
 ###The hardware:
