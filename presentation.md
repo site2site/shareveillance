@@ -9,7 +9,9 @@ lecture: shareveillance
 
 ###Shareveillance addresses the representation of Studio-X in the digital realm, exploring the potential for dynamic interplay between analog and digital space, curation and automation.       
 
-###This program connects the ‘real world’ Studio-X with a new web presence based on a triptych of timelapse camera feeds of key focal points. By teaching the computer—a Raspberry Pi—to read the space according to a logic—colors and shapes—that coalesces with our own mechanisms of perception, these spaces can be activated and tagged using a symbology that is intelligible to both computers and humans. The opportunity to exploit discrepancies between these modes of logic, as well as the immediacy and directness of this interchange, provides Studio-X with a new toolkit for expression. Through Shareveillance, Studio-X reveals itself more fully—its people, its moments both exciting and mundane, the hidden process of making, and the incidental nature of the everyday—but does so through a responsive, adaptable, and more finely grained system of expression. 
+* ![Site to Web diagram](https://raw.github.com/site2site/shareveillance/master/images/S2S_Site-to-Web-Diagram.png)
+
+###This program connects the ‘real world’ Studio-X with a new web presence based on a triptych of timelapse camera feeds of key focal points. By teaching the computer—a Raspberry Pi—to read the space according to a logic—colors and shapes—that coalesces with our own mechanisms of perception, these spaces can be activated and tagged using a symbology that is intelligible to both computers and humans. The opportunity to exploit discrepancies between these modes of logic, as well as the immediacy and directness of this interchange, provides Studio-X with a new set of communication tools. Through Shareveillance, Studio-X reveals itself more fully—its people, its moments both exciting and mundane, the hidden process of making, and the incidental nature of the everyday—but does so through a responsive, adaptable, and more finely grained system of expression. 
 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.10_site2site_intro.gif)
 
