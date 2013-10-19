@@ -21,7 +21,7 @@ Kirk Finkel, Leo Shaw, Christina Badal, Dina Mahmoud, Masha Drozdov
 
 ###Scenario of the "Billboard" ELEVATION
 
-* ![view1](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-01.png) 
+* ![view1](https://github.com/site2site/shareveillance/blob/c18047f388f2e432ea662d92b711cacb6d1f6650/images/Click_scenario-01-01.gif) 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-02.png) 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-03.png) 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-04.png) 
