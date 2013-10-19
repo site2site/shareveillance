@@ -25,7 +25,7 @@ lecture: shareveillance
 ###Scenario of the "Billboard" ELEVATION
 
 * ![view1](https://raw.github.com/site2site/shareveillance/c18047f388f2e432ea662d92b711cacb6d1f6650/images/Click_scenario-01-01.gif) 
-* ![views](https://raw.github.com/site2site/shareveillance/master/images/interface_popup-02.gif) 
+* ![views](https://raw.github.com/site2site/shareveillance/master/images/interface_popup-03.gif) 
 
 ###Scenario of the "Audience" PLAN
 
