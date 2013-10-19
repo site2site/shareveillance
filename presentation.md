@@ -13,7 +13,10 @@ lecture: shareveillance
 
 * ![views](https://raw.github.com/site2site/shareveillance/master/images/10.10_site2site_intro.gif)
 
-###The program consists of three ‘hotspots’: a "Billboard" of events in elevation, an "Audience" share-space in plan, and a dynamic module, "Stage," for capturing one-off or spontaneous events, unusual set-ups, and assorted ephemera. 
+###The program consists of three ‘hotspots’: 
+1. "Billboard" of events in elevation
+2. "Audience" share-space in plan
+3. "Stage," a dynamic module for capturing one-off or spontaneous events, unusual set-ups, and assorted ephemera
 
 * ![Shareveillance Set-up](https://raw.github.com/site2site/shareveillance/master/images/S2S_Shareveillance_Setup.png)
 
