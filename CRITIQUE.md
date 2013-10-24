@@ -1,3 +1,29 @@
+## October 24, 2013
+
+Critiques:
+
+* ![Critique 1](https://raw.github.com/site2site/shareveillance/master/images/Critique_1.JPG)
+
+-Connecting with other Studio-X sites
+-Moving outside enclosed Studio-X space and into urban fabric
+-Political dimensions
+-Using CV to recognize found objects and produce new symbologies/relationships
+
+* ![Critique 2](https://raw.github.com/site2site/shareveillance/master/images/Critique_2.JPG)
+
+-Connecting Studio-X content with other databases, particularly social media (eg. Tumblr, Instagram, Twitter)
+-Automatic search engine (images "like this")
+-User participation (pin-up board)
+
+* ![Critique 3](https://raw.github.com/site2site/shareveillance/master/images/Critique_3.JPG)
+
+-Camera as collaborator (embracing the false positives to read new meanings in space)
+-Creating an archive/database based on a growing taxonomy of user-created CV-readable shapes/symbols
+
+Hackathon Plan:
+
+* ![Hackathon plan](https://raw.github.com/site2site/shareveillance/master/images/Hackathon_Plan.JPG)
+
 ## September 28, 2013
 
 Your project allows users to tag physical objects in a video feed streamed to the web, turning them into unique click targets. These targets can be produced over time, providing the directors of Studio-X with a new tool to curate their online communications through physical space.
